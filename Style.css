@@ -1,0 +1,57 @@
+body{
+  background-image: url('images/basil-gdafbf494c_1280.jpg');
+  background-repeat:repeat;
+  background-position:center;
+  background: size 5px;
+}
+h1{
+    font-style: italic;
+    font-size: 500%;
+    color: #091f0d;
+    font-family: 'Times New Roman', Times, serif;
+    
+    /*Para colocar o texto no centro*/
+    text-align: center;
+      
+  }
+  h3{
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #134b05;
+  }
+  /*Nome do produto*/
+  h2{
+    font-size: 40px;
+    color: #16470a;
+    text-align: center;
+  }
+  /*descrição do produto e preço*/
+  h4{
+    font-size: 30px;
+    color: #16470a;
+    text-align: center;
+  }  
+
+ 
+  /*estilo para o link do menu*/
+  a{
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(6, 61, 43);
+    text-decoration:wavy; 
+  }
+  
+  img{
+    border-radius: 5%;
+    border-width: 10px;
+    border-style:dashed;
+    border-color: #52c567;
+   
+    /*para alinhar a imagem no centro da tela*/
+    display: block;
+    margin: 0px auto;
+
+  }
+  
